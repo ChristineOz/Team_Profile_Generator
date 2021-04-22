@@ -1,4 +1,4 @@
-# Team_Profile_Generator# Team Profile Generator
+# Team Profile Generator
     
 #### Table of Contents
 1. [Project Description](#project-description)
