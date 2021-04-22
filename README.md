@@ -22,7 +22,7 @@
 ## Test Instructions
 * Install your npm package. Once installed view your .json file to see what test specially you need to run in order for your application to run properly to assure you have everything necessary. Finally through your command line enter npm run test. 
 ## License
-* licensed under the 
+* ISC
 ## Questions
 * For additional help or questions about collaboration, please reach out to Christineosmak@gmail.com
 * Follow me on Github at [ChristineOz](http://github.com/ChristineOz)
