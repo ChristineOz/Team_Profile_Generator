@@ -14,6 +14,14 @@
 ![Screen Shot 2021-04-22 at 4 57 23 PM](https://user-images.githubusercontent.com/77952267/115784348-fcae6000-a38b-11eb-92ea-7fa29cd5520b.png)
 https://christineoz.github.io/Team_Profile_Generator/
 
+
+[Run Test.zip](https://github.com/ChristineOz/Team_Profile_Generator/files/6402524/Run.Test.zip)
+
+[Walkthrough of Application.zip](https://github.com/ChristineOz/Team_Profile_Generator/files/6402525/Walkthrough.of.Application.zip)
+
+[HTML Output.zip](https://github.com/ChristineOz/Team_Profile_Generator/files/6402523/HTML.Output.zip)
+
+
 ## Installation Instructions
 * Must install npm
 ## Usage Information
